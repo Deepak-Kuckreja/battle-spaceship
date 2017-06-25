@@ -14,4 +14,4 @@ There is one space-ship (has 3 lives in a game) and many meteorites. The objecti
 - press the up key to accelerate
 - press the space-bar key to shoot the meteorites
 
-![demo]https://github.com/Deepak-Kuckreja/battle-spaceship/issues/1
+![demo](https://github.com/Deepak-Kuckreja/battle-spaceship/issues/1)
