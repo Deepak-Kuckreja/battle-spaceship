@@ -13,5 +13,5 @@ There is one space-ship (has 3 lives in a game) and many meteorites. The objecti
 - press the left right and right arrow keys to navigate.
 - press the up key to accelerate
 - press the space-bar key to shoot the meteorites
-
+b
 
